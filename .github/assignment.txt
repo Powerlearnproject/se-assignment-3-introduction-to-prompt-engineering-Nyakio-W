@@ -1,0 +1,35 @@
+Definition of Prompt Engineering:
+Prompt engineering involves crafting inputs to guide AI models, ensuring accurate responses in NLP tasks.
+
+Components of a Prompt:
+A prompt includes context, instructions, examples, and constraints, guiding the AI model's behavior.
+
+Types of Prompts:
+Prompts can be open-ended, instructional, conditional, or contextual, influencing model responses.
+
+Prompt Tuning:
+Prompt tuning adjusts prompts iteratively to optimize model performance, offering fine-grained control.
+
+Role of Context in Prompts:
+Context informs prompts, aiding model understanding; omitting or misleading context can impact model outputs.
+
+Ethical Considerations:
+Prompt engineering should consider biases, transparency, and potential harms to users and society.
+
+Evaluation of Prompts:
+Prompt effectiveness is assessed through accuracy, diversity, relevance, and user satisfaction metrics.
+
+Challenges in Prompt Engineering:
+Challenges include designing clear, unbiased prompts, balancing specificity with flexibility, and addressing biases.
+
+Case Studies:
+Chatbot development showcases effective prompt engineering, focusing on user needs and continuous refinement.
+
+Future Trends:
+Personalized, automated, multimodal prompts, and standardized frameworks are emerging trends in prompt engineering.
+
+
+
+
+
+
